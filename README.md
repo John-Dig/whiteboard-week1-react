@@ -1,1 +1,2 @@
-# whiteboard-week1-react
+# whiteboard mock interview
+-week1-react
